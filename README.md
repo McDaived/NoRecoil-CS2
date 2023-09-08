@@ -24,7 +24,8 @@
 2. Extract zip folder of NoRecoil.
 3. Make sure to add the same mouse sensitivity settings in the game to the ``config.ini``, you can change keybind values in config file for weapons as you wish.
 4. Open ``NoRecoil.ahk``.
-5. done.
+5. press on Numpad keys to turn on NoRecoil.
+6. done.
 
 ## ![](https://github.com/McDaived/Discord-Profile-Card/assets/18085492/7a4879fd-97a1-4807-98e5-8f62137dee6e)Preview :
 ![ezgif com-optimize](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/79643cd3-5286-4258-8c5e-ae010a9a2a6e)
