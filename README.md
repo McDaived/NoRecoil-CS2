@@ -30,7 +30,7 @@
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/7eab67ab-4b44-40ee-b050-53e48a856fc5)How to use :
 1. Download AutoHotKey **V1** and install it.
 2. Extract zip folder of NoRecoil.
-3. Open ``NoRecoil.ahk``.
+3. Open ``NoRecoil v2.ahk``.
 4. press on Numpad keys to turn on NoRecoil or you can change keybinds values in gui window for weapons as you wish.
 5. done.
 
